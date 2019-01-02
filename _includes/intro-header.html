@@ -51,7 +51,7 @@
 					  {% when '2' %}&uacute;nora
 					  {% when '3' %}b&rcaron;ezna
 					  {% when '4' %}dubna
-					  {% when '5' %}Kv&ecaron;tna
+					  {% when '5' %}kv&ecaron;tna
 					  {% when '6' %}&ccaron;ervna
 					  {% when '7' %}&ccaron;ervence
 					  {% when '8' %}srpena
@@ -98,15 +98,14 @@
                     <h1>{{ page.title }}</h1>
                     {% comment %} always create a h2 for keeping the margin {% endcomment %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
-                    <span class="meta">Přidal {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}
-                        {{ page.date | date: "%-d." }} 
+                    <span class="meta">Přidal {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} &nbsp; {{ page.date | date: "%-d." }} 
 					{% case m %}
 					  {% when '1' %}Leden
 					  {% when '1' %}ledna
 					  {% when '2' %}&uacute;nora
 					  {% when '3' %}b&rcaron;ezna
 					  {% when '4' %}dubna
-					  {% when '5' %}Kv&ecaron;tna
+					  {% when '5' %}kv&ecaron;tna
 					  {% when '6' %}&ccaron;ervna
 					  {% when '7' %}&ccaron;ervence
 					  {% when '8' %}srpena
