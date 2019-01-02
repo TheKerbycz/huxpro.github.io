@@ -43,7 +43,23 @@
                     <h1>{{ page.title }}</h1>
                     {% comment %} always create a h2 for keeping the margin {% endcomment %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
-                    <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+					{% assign m = page.date | date: "%-m" %}
+                    <span class="meta">Přidal {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} {{ page.date | date: "%-d" }} 
+					{% case m %}
+					{% when '1' %}Leden
+					  {% when '2' %}&Uacute;nor
+					  {% when '3' %}B&rcaron;ezen
+  					  {% when '4' %}Duben
+  					  {% when '5' %}Kv&ecaron;ten
+ 					  {% when '6' %}&Ccaron;erven
+ 					  {% when '7' %}&Ccaron;ervenec
+ 					  {% when '8' %}Srpen
+ 					  {% when '9' %}Z&aacute;&rcaron;&iacute;
+ 					  {% when '10' %}&Rcaron;&iacute;jen
+ 					  {% when '11' %}Listopad
+					  {% when '12' %}Prosinec
+					{% endcase %}
+					{{ page.date | date: "%Y" }} </span>
                 </div>
             </div>
         </div>

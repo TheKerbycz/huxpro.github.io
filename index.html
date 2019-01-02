@@ -15,7 +15,7 @@ description: "Mládež v Růžďce"
         </h3>
         {% endif %}
         <div class="post-content-preview">
-            {% if post.lang == 'en' %}
+            {% if post.lang == 'cs' %}
                 {{ post.content | strip_html | truncate:300 }}
             {% else %}
                 {{ post.content | strip_html | truncate:200 }}
@@ -34,12 +34,12 @@ description: "Mládež v Růžďce"
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Starší příspěvky</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Novější příspěvky</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Novější příspěvky &rarr;</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Starší příspěvky &rarr;</a>
     </li>
     {% endif %}
 </ul>
