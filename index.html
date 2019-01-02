@@ -15,7 +15,7 @@ description: "Mládež v Růžďce"
         </h3>
         {% endif %}
         <div class="post-content-preview">
-            {% if post.lang == 'en' %}
+            {% if post.lang == 'cs' %}
                 {{ post.content | strip_html | truncate:300 }}
             {% else %}
                 {{ post.content | strip_html | truncate:200 }}
@@ -23,7 +23,22 @@ description: "Mládež v Růžďce"
         </div>
     </a>
     <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+        Přidal {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} {{ page.date | date: "%-d" }} 
+		{% case m %}
+		  {% when '1' %}Leden
+		  {% when '2' %}&Uacute;nor
+		  {% when '3' %}B&rcaron;ezen
+  		  {% when '4' %}Duben
+  		  {% when '5' %}Kv&ecaron;ten
+ 		  {% when '6' %}&Ccaron;erven
+ 		  {% when '7' %}&Ccaron;ervenec
+ 		  {% when '8' %}Srpen
+ 		  {% when '9' %}Z&aacute;&rcaron;&iacute;
+ 		  {% when '10' %}&Rcaron;&iacute;jen
+ 		  {% when '11' %}Listopad
+		  {% when '12' %}Prosinec
+		{% endcase %}
+		{{ page.date | date: "%Y" }}
     </p>
 </div>
 <hr>
@@ -34,12 +49,12 @@ description: "Mládež v Růžďce"
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Starší příspěvky</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Novější příspěvky</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Novější příspěvky &rarr;</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Starší příspěvky &rarr;</a>
     </li>
     {% endif %}
 </ul>
