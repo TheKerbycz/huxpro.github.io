@@ -23,8 +23,8 @@ description: "Mládež v Růžďce"
         </div>
     </a>
     <p class="post-meta">
-		{% assign m = page.date | date: "%-m" %}
-        Přidal {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} {{ page.date | date: "%-d" }} 
+		{% assign m = post.date | date: "%-m" %}
+        Přidal {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} {{ post.date | date: "%-d" }} 
 		{% case m %}
 		  {% when '1' %}Leden
 		  {% when '2' %}&Uacute;nor
@@ -39,7 +39,7 @@ description: "Mládež v Růžďce"
  		  {% when '11' %}Listopad
 		  {% when '12' %}Prosinec
 		{% endcase %}
-		{{ page.date | date: "%Y" }}
+		{{ post.date | date: "%Y" }}
     </p>
 </div>
 <hr>
