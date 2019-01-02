@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Mládež v Růžďce",
+  "short_name": "Mládež v Růžďce",
+  "description": "Nejnovější zprávy ze světa mládeže. Nebo tak nějak.",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",

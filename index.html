@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "我干了什么 究竟拿了时间换了什么"
+description: "Mládež v Růžďce"
 ---
 
 {% for post in paginator.posts %}
@@ -34,12 +34,12 @@ description: "我干了什么 究竟拿了时间换了什么"
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Starší příspěvky</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Novější příspěvky &rarr;</a>
     </li>
     {% endif %}
 </ul>
