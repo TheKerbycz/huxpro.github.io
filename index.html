@@ -23,6 +23,7 @@ description: "Mládež v Růžďce"
         </div>
     </a>
     <p class="post-meta">
+		{% assign m = page.date | date: "%-m" %}
         Přidal {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} {{ page.date | date: "%-d" }} 
 		{% case m %}
 		  {% when '1' %}Leden
