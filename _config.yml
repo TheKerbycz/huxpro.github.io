@@ -5,8 +5,8 @@ author: Ondřej Bartoň
 header-img: img/home-bg.jpg
 email: "#nomail"
 description: "Mládež při ČCE v Růžďce. Zvaný je každý, scházíme se pravidelně každý pátek v 19:00"
-keyword: "mládež Růžďka, ČCE Růžďce, mládež, Ondřej Bartoň, blog, Českobratrská církvev evangelická v Růžďce a na Bystřičkce, Růžďka, Bystřička"
-url: "thekerbycz.github.io"              # your host, for absolute URL
+keyword: "mládež Růžďka, ČCE Růžďka, mládež, Ondřej Bartoň, blog, Českobratrská církvev evangelická v Růžďce a na Bystřičkce, Růžďka, Bystřička, ruzdkamladez.cz, ruzdka, mladez, Růžďka mládež, Mládež v Růžďce"
+url: "ruzdkamladez.cz"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -72,8 +72,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
+ga_track_id: 'UA-131672743-1'            # Format: UA-xxxxxx-xx
+ga_domain: ruzdkamladez.cz
 
 
 
