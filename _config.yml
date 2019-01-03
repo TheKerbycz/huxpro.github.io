@@ -7,7 +7,7 @@ email: "#nomail"
 description: "Mládež při ČCE v Růžďce. Zvaný je každý, scházíme se pravidelně každý pátek v 19:00"
 keyword: "mládež Růžďka, ČCE Růžďce, mládež, Ondřej Bartoň, blog, Českobratrská církvev evangelická v Růžďce a na Bystřičkce, Růžďka, Bystřička"
 url: "https://ruzdkamladez.cz"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "mladezruzdka.cz"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
