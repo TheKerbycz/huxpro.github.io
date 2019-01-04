@@ -6,6 +6,7 @@ header-img: "img/about-bg.jpg"
 multilingual: true
 ---
 
+{% comment %}
 <!-- Language Selector -->
 <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
     <option value="0" selected> 中文 Chinese </option>
@@ -23,7 +24,13 @@ multilingual: true
     {% capture about_en %}{% include about/en.md %}{% endcapture %}
     {{ about_en | markdownify }}
 </div>
+{% endcomment %}
 
+{% comment %} <!-- Only language Version --> {% endcomment %}
+<div class="post-container">
+    {% capture about %}{% include about/about.md %}{% endcapture %}
+    {{ about | markdownify }}
+</div>
 
 {% if site.disqus_username %}
 <!-- disqus 评论框 start -->
