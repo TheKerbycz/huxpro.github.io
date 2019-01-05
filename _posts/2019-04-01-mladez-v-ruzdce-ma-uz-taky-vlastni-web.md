@@ -11,13 +11,13 @@ tags:
 ---
 
 "První článek na úplně nové stránce. To bude určitě zajímavé," říkáte si. Omyl. Nebude. Vlastně se zde nedozvíte nic nového, ale pokud půjde vše podle plánu,
-budou zde vycházet pravidelné články o tom co se chystá, co proběhlo, a někdy v budoucnu třeba i nějaká ta fotogalerie (ale to je ještě daleko a navíc těch fotek zase tolik není).
+budou zde vycházet pravidelné články o tom co se chystá, co proběhlo, a někdy v budoucnu tady brřibude třeba i nějaká ta fotogalerie (ale to je ještě daleko a navíc těch fotek zase tolik není - mládežníci, foťte! :-D ).
 
 _Ale Ondro, proč to není aplikace, mě to nebaví pokaždé otervírat v prohlížeči._ 
-No, to mám pro tebe dobrou zprávu, milý čternáři. Pokud používáš mobilní telefon, můžeš si tento web přidat na plochu. <sub>1</sub>
+No, to mám pro tebe dobrou zprávu, milý čternáři. Pokud používáš mobilní telefon, můžeš si tento web přidat na plochu. <sup>1</sup>
 
 _Ale Ondro, já nechápu, o čem to mluvíš!_
-Je to jednoduché<sub>2/sub>, ale je zde více variant:
+Je to jednoduché<sup>2</sup>, ale je zde více variant:
 1) používáš Android a prohlížeč Chrome
 2) používáš iOS a prohlížeč Safari
 3) v podmínkách 1) ani 2) ses nenašel, nebo našel, ale nic se nestalo
@@ -29,5 +29,5 @@ Při otevření webu na tebe pravděpodobně vyskočila lišta "Přidat apliaci 
 ad 2)
 Klikni na tlačítko "sdílet" (takový ten čtvereček se šipkou) a klikni na: netuším co :D
 
-<sub>1</sub> Terms and conditons apply. </sub>
-<sub>2</sub> Možná.
+<sup>1</sup> Terms and conditons apply.
+<sup>2</sup> Možná. Neberte to doslova.
