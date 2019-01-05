@@ -42,7 +42,7 @@ Chvála mě samozřejmě těší, můžeš se třeba zmínit na mládeži. :-D<b
 A to je ode mně všechno, díky za přečtení článku a zase někdy příště :-)<br>
 <br>
 <br>
-<sup>1</sup> Terms and conditons apply.<br>
+<sup>1</sup> Terms and conditons apply. <sup>To neberte vážně.</sup> <br>
 <sup>2</sup> Možná. Neberte to doslova.<br>
 
 >Jsou rozdílná obdarování, ale tentýž Duch; rozdílné služby, ale tentýž Pán; a rozdílná působení moci, ale tentýž Bůh, který působí všecko ve všech.<br> 1. Korintským 12:4-6 
