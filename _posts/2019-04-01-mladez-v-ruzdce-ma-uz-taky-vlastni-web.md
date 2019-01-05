@@ -8,6 +8,7 @@ lang: cs
 tags:
   - Mládež
   - Novinky
+  - Návody
 ---
 
 "První článek na úplně nové stránce. To bude určitě zajímavé," říkáte si. Omyl. Nebude. Vlastně se zde nedozvíte nic nového, ale pokud půjde vše podle plánu,
