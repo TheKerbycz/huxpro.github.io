@@ -36,7 +36,7 @@ Pokud ti to nefunguje, nebo ses v podmínkách nenašel, velmi mě to mrzí, ale
 <br>
 _Ale Ondro..._<br>
 _Ale čtenáři... Promiň. Co jsi chtěl?_<br>
-_Já... Děkuju_<br>
+_Já... Děkuju._<br>
 <br>
 Chvála mě samozřejmě těší, můžeš se třeba zmínit na mládeži. :-D<br>
 A to je ode mně všechno, díky za přečtení článku a zase někdy příště :-)<br>
