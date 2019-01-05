@@ -1,0 +1,4 @@
+#a3a3a3 -- > #7a7a7a  - příspěvek 
+#cccccc -- > #999999  - datum přidání
+#ccc take
+#bfbfbf -- > #939393  - text pod obrazkem

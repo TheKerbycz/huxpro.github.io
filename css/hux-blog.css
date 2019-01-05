@@ -15,26 +15,26 @@
   }
 }
 .sidebar-container {
-  color: #bfbfbf;
+  color: #939393;
   font-size: 14px;
 }
 .sidebar-container h5 {
-  color: #cccccc;
+  color: #999999;
   padding-bottom: 1em;
 }
 .sidebar-container h5 a {
-  color: #cccccc !important;
+  color: #999999 !important;
   text-decoration: none;
 }
 .sidebar-container a {
-  color: #bfbfbf !important;
+  color: #939393 !important;
 }
 .sidebar-container a:hover,
 .sidebar-container a:active {
   color: #0085a1 !important;
 }
 .sidebar-container .tags a {
-  border-color: #bfbfbf;
+  border-color: #939393;
 }
 .sidebar-container .tags a:hover,
 .sidebar-container .tags a:active {
@@ -215,7 +215,7 @@
   color: #000000;
   text-transform: uppercase;
   border-radius: 3px;
-  outline-color: #cccccc;
+  outline-color: #999999;
 }
 .paper-button:hover {
   cursor: pointer;
@@ -265,7 +265,7 @@ button.paper-button {
   background-color: #ffffff;
 }
 .paper-button input[type="submit"] {
-  outline-color: #cccccc;
+  outline-color: #999999;
 }
 .paper-button.colored.raised-button input[type="submit"] {
   color: #ffffff;
@@ -761,7 +761,7 @@ samp {
   width: 100%;
 }
 .post-container .pager li > a > span {
-  color: #cccccc;
+  color: #999999;
   font-weight: normal;
   letter-spacing: 0.5px;
 }
@@ -973,7 +973,7 @@ samp {
 }
 .intro-header {
   background: no-repeat center center;
-  background-color: #cccccc;
+  background-color: #999999;
   background-attachment: scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1147,7 +1147,7 @@ samp {
 }
 .post-preview > .post-meta {
   font-family: 'Lora', 'Times New Roman', serif;
-  color: #cccccc;
+  color: #999999;
   font-size: 16px;
   font-style: italic;
   margin-top: 0;
@@ -1177,7 +1177,7 @@ samp {
 .post-content-preview {
   font-size: 13px;
   font-style: italic;
-  color: #a3a3a3;
+  color: #7a7a7a;
 }
 .post-content-preview:hover {
   color: #0085a1;
@@ -1340,7 +1340,7 @@ form .row:first-child .floating-label-form-group {
 .pager .disabled > a:hover,
 .pager .disabled > a:focus,
 .pager .disabled > span {
-  color: #cccccc;
+  color: #999999;
   background-color: #404040;
   cursor: not-allowed;
 }
@@ -1588,10 +1588,10 @@ img::-moz-selection {
   background: none;
 }
 .comment #ds-thread #ds-reset .ds-post-options {
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #999999;
 }
 .comment #ds-thread #ds-reset .ds-post-button {
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #999999;
 }
 .comment #ds-thread #ds-reset .ds-post-button {
   background: white;
