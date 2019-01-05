@@ -32,14 +32,16 @@ ad 2)<br>
 Klikni na tlačítko 'sdílet' (takový ten čtvereček se šipkou), poté posuň doprava, až uvidíš 'Přidat na plochu' klikni nat to máš hotovo. :-D<br>
 <br>
 Pokud ti to nefunguje, nebo ses v podmínkách nenašel, velmi mě to mrzí, ale naneštěstí ti s tím nedokážu takto na dálku pomoct. <br> Ale můžeš se mě na to zeptat na mládeži á já ti s tím rád pomůžu. :-) <br>
-_Ale Ondro..._<br>
 <br>
+_Ale Ondro..._<br>
 _Ale čtenáři... Promiň. Co jsi chtěl?_<br>
 _Já... Děkuju_<br>
 <br>
-Chvála mě samozřejmě těší, tyto verše mluví za vše:<br>
+Chvála mě samozřejmě těší, můžeš se třeba zmínit na mládeži. :-D<br>
+A to je ode mně všechno, díky za přečtení článku a zase někdy příště :-)<br>
 <br>
-> Jsou rozdílná obdarování, ale tentýž Duch; rozdílné služby, ale tentýž Pán; a rozdílná působení moci, ale tentýž Bůh, který působí všecko ve všech.<br> 1. Korintským 12:4-6
+
+> Jsou rozdílná obdarování, ale tentýž Duch; rozdílné služby, ale tentýž Pán; a rozdílná působení moci, ale tentýž Bůh, který působí všecko ve všech.<br> 1. Korintským 12:4-6 <
 <br><br><br>
 
 
