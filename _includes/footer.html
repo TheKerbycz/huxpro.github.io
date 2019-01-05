@@ -11,7 +11,7 @@
                     <br>
                     Powered by <a href="http://huangxuan.me">Hux Blog</a> | Star me on <a href="https://github.com/Huxpro/huxpro.github.io">GitHub</a>
                 </p>
-				<div className="installPopupPlaceHolder">
+				<div class="installPopupPlaceHolder">
             </div>
         </div>
     </div>
@@ -83,14 +83,14 @@ $(document).ready(function() {
 		$("head").append("<link rel='stylesheet' id='extracss' href='"+/css/pwa-popup.css+"' type='text/css' />");
 
 
-        var str = '<div className=\"installPopup\">	<div className=\"right\"><img src={icon2} className=\"icon2\" alt=\"\" /> </div><div className=\"left\">Install this webapp on your iPhone: tap	<img src={icon1} className=\"icon1\" alt=\"\" /> and then Add to homescreen.</div></div>';
+        var str = '<div class=\"installPopup\">	<div class=\"right\"><img src="/img/installPopup1.jpg" className=\"icon2\" alt=\"\" /> </div><div class=\"left\">Install this webapp on your iPhone: tap	<img src="/img/installPopup1.jpg" class=\"icon1\" alt=\"\" /> and then Add to homescreen.</div></div>';
 
-        div = document.getElementById('installPopupPlaceHolder');
-
-        div.insertAdjacentHTML('beforeend', str);
+        div = document.getElementsByClassName('installPopupPlaceHolder');
+		//vlozi popup
+        div[0].insertAdjacentHTML('beforeend', str);
 		
 		function removeElement() {
-			var divToRemove = document.getElementById('installPopup'); // grab a reference to your element
+			var divToRemove = document.getElementsByClassName('installPopup'); // grab a reference to your element
 			divToRemove.remove();
 		}
 
@@ -105,7 +105,7 @@ $(document).ready(function() {
 				removeElement();
 			}
         }
-        var element = document.getElementById('installPopup'); // grab a reference to your element
+        var element = document.getElementsByClassName('installPopup'); // grab a reference to your element
         element.addEventListener('click', clickHandler); // associate the function above with the click event
     });
 	
