@@ -18,6 +18,7 @@ No, to mám pro tebe dobrou zprávu, milý čternáři. Pokud používáš mobil
 
 _Ale Ondro, já nechápu, o čem to mluvíš!<br>_
 Je to jednoduché<sup>2</sup>, ale je zde více variant:<br>
+<br>
 1) používáš Android a prohlížeč Chrome<br>
 2) používáš iOS a prohlížeč Safari<br>
 3) v podmínkách 1) ani 2) ses nenašel, nebo našel, ale nic se nestalo<br>
@@ -25,10 +26,24 @@ Je to jednoduché<sup>2</sup>, ale je zde více variant:<br>
 Tento postup by měl fungovat, ale je možné, že to prostě fungovat nebude. Na to řešeí nemám. :-(<br>
 <br>
 ad 1)<br>
-Při otevření webu na tebe pravděpodobně vyskočila lišta "Přidat apliaci Mládež na plochu". Pokud jsi na to kliknul a potvrdil, nenímusíš už nic řešit. Pokud jsi nekliknul, klikni vpravo nahoře na tři tečky a poté Přidat na plochu.
+Při otevření webu na tebe pravděpodobně vyskočila lišta 'Přidat apliaci Mládež na plochu'. Pokud jsi na to kliknul a potvrdil, nenímusíš už nic řešit. Pokud jsi nekliknul, klikni vpravo nahoře na tři tečky a poté na 'Přidat na plochu'.
 
 ad 2)<br>
-Klikni na tlačítko "sdílet" (takový ten čtvereček se šipkou) a klikni na: netuším co :D<br>
+Klikni na tlačítko 'sdílet' (takový ten čtvereček se šipkou), poté posuň doprava, až uvidíš 'Přidat na plochu' klikni nat to máš hotovo. :-D<br>
+<br>
+ad 3) <br>
+Pokud ti to nefunguje, velmi mě to mrzí, ale naneštěstí ti s tím nedokážu takto na dálku pomoct. <br> Ale můžeš se mě na to zeptat na mládeži á já ti rád pomůžu. :-) <br>
+_Ale Ondro..._<br>
+<br>
+_Ale čtenáři... Promiň. Co jsi chtěl?_<br>
+_Já... Děkuju_<br>
+<br>
+Chvála mě samozřejmě těší, tyto verše mluví za vše:<br>
+<br>
+> Jsou rozdílná obdarování, ale tentýž Duch; rozdílné služby, ale tentýž Pán; a rozdílná působení moci, ale tentýž Bůh, který působí všecko ve všech.<br> 1. Korintským 12:4-6
+<br><br><br>
+
+
 
 <sup>1</sup> Terms and conditons apply.<br>
 <sup>2</sup> Možná. Neberte to doslova.<br>
