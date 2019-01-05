@@ -11,7 +11,7 @@ tags:
   - Návody
 ---
 
-"První článek na úplně nové stránce. To bude určitě zajímavé," říkáte si. Omyl. Nebude. Vlastně se zde nedozvíte nic nového, ale pokud půjde vše podle plánu,
+"První článek na úplně nové stránce. To bude určitě zajímavé," říkáte si. Omyl. Nebude. Vlastně se zde zatím nedozvíte skoro nic nového nic nového, ale pokud půjde vše podle plánu,
 budou zde vycházet pravidelné články o tom co se chystá, co proběhlo, a někdy v budoucnu tady třeba přibude i nějaká ta fotogalerie (ale to je ještě daleko a navíc těch fotek zase tolik není - mládežníci, foťte!, ať máme galerii :-D ).
 
 _Ale Ondro, proč to není aplikace, mě to nebaví pokaždé otevírat v prohlížeči.<br>_
