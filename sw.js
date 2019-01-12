@@ -165,6 +165,18 @@ self.addEventListener('fetch', event => {
   //console.log(` - type: ${event.request.type}; destination: ${event.request.destination}`)
   //console.log(` - mode: ${event.request.mode}, accept: ${event.request.headers.get('accept')}`)
 
+  
+  
+	//if ( event.request.url.match( '^.*(\/blog\/).*$' ) ) {
+    //    return false;
+    //}
+	
+  if ( event.request.url.indexOf( '/.netlify/' ) !== -1 ) {
+	return false;
+  }
+  
+  
+  
   // Skip some of cross-origin requests, like those for Google Analytics.
   if (HOSTNAME_WHITELIST.indexOf(new URL(event.request.url).hostname) > -1) {
 
