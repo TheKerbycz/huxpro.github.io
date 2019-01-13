@@ -1,5 +1,0 @@
-require 'rubygems'
-require 'bundler/setup'
-require 'jekyll'
-require 'jekyll-paginate'
-require 'jekyll-sitemap'
