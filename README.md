@@ -1,5 +1,5 @@
 # ruzdkamladez.cz
-Forked version for my own use, visit the original repo[here](https://github.com/Huxpro/huxpro.github.io).
+Forked version for my own use, you probalby want to visit the original repo [here](https://github.com/Huxpro/huxpro.github.io).
 
 
 ## Releases
